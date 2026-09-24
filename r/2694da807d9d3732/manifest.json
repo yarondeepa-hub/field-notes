@@ -5,7 +5,7 @@
   "files": [
     {
       "name": "bundle.enc",
-      "size": 255804
+      "size": 254567
     },
     {
       "name": "docs/d01.pdf.enc",
@@ -41,11 +41,11 @@
     },
     {
       "name": "docs/d05.pdf.enc",
-      "size": 632108
+      "size": 633609
     },
     {
       "name": "docs/d05.pages.enc",
-      "size": 370140
+      "size": 370948
     }
   ]
 }
