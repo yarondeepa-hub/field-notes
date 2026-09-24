@@ -5,31 +5,47 @@
   "files": [
     {
       "name": "bundle.enc",
-      "size": 252910
+      "size": 255804
     },
     {
       "name": "docs/d01.pdf.enc",
-      "size": 496084
+      "size": 246161
     },
     {
       "name": "docs/d01.pages.enc",
-      "size": 329867
+      "size": 370387
     },
     {
       "name": "docs/d02.pdf.enc",
-      "size": 537999
+      "size": 496084
     },
     {
       "name": "docs/d02.pages.enc",
-      "size": 307854
+      "size": 329867
     },
     {
       "name": "docs/d03.pdf.enc",
-      "size": 360530
+      "size": 537999
     },
     {
       "name": "docs/d03.pages.enc",
+      "size": 307854
+    },
+    {
+      "name": "docs/d04.pdf.enc",
+      "size": 360530
+    },
+    {
+      "name": "docs/d04.pages.enc",
       "size": 1592077
+    },
+    {
+      "name": "docs/d05.pdf.enc",
+      "size": 632108
+    },
+    {
+      "name": "docs/d05.pages.enc",
+      "size": 370140
     }
   ]
 }
